@@ -2,6 +2,6 @@
 ### 2018-2019 Programming I | daniwong9570@granitesd.org
 
 ## Object Oriented Calculator
-!Calculator[calvinator](https://github.com/DandyDaniel/2019ProgPort/blob/master/Calc/Pictures/calvinator.png)
-
+![calvinator](https://github.com/DandyDaniel/2019ProgPort/blob/master/Calc/Pictures/calvinator.png)
+### This is a fully functional Thanos-themed calculator that was programmed in Processing.
 ![]()
