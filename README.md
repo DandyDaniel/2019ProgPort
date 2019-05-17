@@ -5,6 +5,6 @@
 ![calvinator](https://github.com/DandyDaniel/2019ProgPort/blob/master/Calc/Pictures/calvinator.png)
 ### Calculator:
 #### - Coded in Processing.
-#### - Fully Fuctional(Basic operators, Exponents, Square Roots.)
+#### - Fully Fuctional(Basic operators, Exponents, Square Roots).
 #### - Thanos-themed. ;)
 ![]()
