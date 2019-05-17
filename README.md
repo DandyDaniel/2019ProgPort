@@ -3,5 +3,7 @@
 
 ## Object Oriented Calculator
 ![calvinator](https://github.com/DandyDaniel/2019ProgPort/blob/master/Calc/Pictures/calvinator.png)
-### This is a fully functional Thanos-themed calculator that was programmed in Processing.
+### Calculator:
+#### - Fully Fuctional(Basic operators, Exponents, Square Roots)
+#### - Thanos-themed. ;)
 ![]()
