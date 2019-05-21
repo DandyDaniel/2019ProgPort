@@ -26,3 +26,14 @@
 #### - Mouse to move, Mouse1/Spacebar to fire.
 
 
+## Number Guesser
+![NumberGuesser](NumberGuesser/Pictures/NumberGuesser.png)
+### Number Guesser:
+#### - Coded in Atom/IDLE(Python)
+#### - Guess a randomly generated number from 0-100.
+
+
+## Pig Latin Word Generator
+![][()
+
+
