@@ -2,7 +2,7 @@
 ### 2018-2019 Programming I | daniwong9570@granitesd.org
 
 ## Object Oriented Calculator
-![calvinator](https://github.com/DandyDaniel/2019ProgPort/blob/master/Calc/Pictures/calvinator.png)
+![calvinator](Calc/Pictures/calvinator.png)
 ### Calculator:
 #### - Coded in Processing(Java).
 #### - Fully Fuctional(Basic operators, Exponents, Square Roots).
@@ -10,7 +10,7 @@
 
 
 ## Thanos-Themed Screensaver
-![Screensaver](https://github.com/DandyDaniel/2019ProgPort/blob/master/ScreenSaver/Pictures/Screensaver.png)
+![Screensaver](ScreenSaver/Pictures/Screensaver.png)
 ### Screensaver:
 #### - Coded in Processing(Java).
 #### - Fully-automatic, space luxury screensaver.
@@ -18,9 +18,11 @@
 
 
 ## Spaceship Game
-![SpaceshipGame](https://github.com/DandyDaniel/2019ProgPort/blob/master/SpaceshipGame/Pictures/SpaceshipGame.png)
+![SpaceshipGame](SpaceshipGame/Pictures/SpaceshipGame.png)
 ### Spaceship Game:
 #### - Coded in Processing(Java).
 #### - Fully Functional and Classic Spaceship Shooter Game. Complete with levels, powerups, and music.
 #### - Controls with the mouse and the keyboard.
 #### - Mouse to move, Mouse1/Spacebar to fire.
+
+
