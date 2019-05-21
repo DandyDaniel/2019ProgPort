@@ -2,6 +2,7 @@
 ### 2018-2019 Programming I | daniwong9570@granitesd.org
 
 ## Object Oriented Calculator
+![Source Code](Calc/Calvinator)
 ![calvinator](Calc/Pictures/calvinator.png)
 ### Calculator:
 #### - Coded in Processing(Java).
@@ -10,6 +11,7 @@
 
 
 ## Thanos-Themed Screensaver
+![Source Code](Screensaver/ScreenSaver)
 ![Screensaver](ScreenSaver/Pictures/Screensaver.png)
 ### Screensaver:
 #### - Coded in Processing(Java).
@@ -18,6 +20,7 @@
 
 
 ## Spaceship Game
+![Source Code]()
 ![SpaceshipGame](SpaceshipGame/Pictures/SpaceshipGame.png)
 ### Spaceship Game:
 #### - Coded in Processing(Java).
@@ -27,6 +30,7 @@
 
 
 ## Number Guesser
+![Source Code]()
 ![NumberGuesser](NumberGuesser/Pictures/NumberGuesser.png)
 ### Number Guesser:
 #### - Coded in Atom/IDLE(Python)
@@ -34,6 +38,7 @@
 
 
 ## Pig Latin Word Generator
+![Source Code]()
 ![Piglatin](PigLatin/Pictures/Piglatin.png)
 ### Pig Latin Word Generator:
 #### - Coded in Atom/IDLE(Python)
