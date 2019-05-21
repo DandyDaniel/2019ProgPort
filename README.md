@@ -9,16 +9,17 @@
 #### - Thanos-themed. ;)
 
 
-
-## Thanos-Themed Screensaver:
+## Thanos-Themed Screensaver
 ![Screensaver](https://github.com/DandyDaniel/2019ProgPort/blob/master/ScreenSaver/Pictures/Screensaver.png)
+### Screensaver:
 #### - Coded in Processing(Java).
 #### - Fully-automatic, space luxury screensaver.
 #### - Thanos Color Scheme, of course.
 
 
-## Spaceship Game:
+## Spaceship Game
 ![SpaceshipGame](https://github.com/DandyDaniel/2019ProgPort/blob/master/SpaceshipGame/Pictures/SpaceshipGame.png)
+### Spaceship Game:
 #### - Coded in Processing(Java).
 #### - Fully Functional and Classic Spaceship Shooter Game. Complete with levels, powerups, and music.
 #### - Controls with the mouse and the keyboard.
