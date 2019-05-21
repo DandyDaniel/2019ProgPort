@@ -10,3 +10,6 @@
 
 ## Thanos-Themed Screensaver
 ![Screensaver](https://github.com/DandyDaniel/2019ProgPort/blob/master/ScreenSaver/Pictures/Screensaver.png)
+#### - Coded in Processing.
+#### - Fully-automatic, space luxury screensaver.
+#### - Thanos Color Scheme. Of Course.
