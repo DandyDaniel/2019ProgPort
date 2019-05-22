@@ -46,7 +46,7 @@
 #### - Input your word and it will take into accound the rules of Pig Latin and produce the word.
 
 
-## Group Project
+## Group Project: Communist Discord Bot
 ##[Source Code](https://github.com/SkylineHigh/A4Python/tree/master/comradeCater)
 
 
